@@ -27,13 +27,14 @@ The criteria to include something in this list are:
 | ChipSat-1 [11]       | University of Luxembourg | Mounted on satellite         | 5.3 x 5.0 cm   | 28 g  | 1         | In progress          | 2023   |
 
 ### References
-[1]	J. Tristancho, “Implementation of a femto-satellite and a mini-launcher,” Universitat Politecnica de Catalunya, 2010.
-[2]	L. Yang, J. Guo, C. Fan, X. Song, S. Wu, and Y. Zhao, “The design and experiment of stardust femto-satellite,” Acta Astronaut., vol. 174, pp. 72–81, Sep. 2020, doi: 10.1016/j.actaastro.2020.04.034.
-[3]	Z. Manchester, “Centimeter-Scale Spacecraft: Design, Fabrication, And Deployment,” 2015. Accessed: Feb. 18, 2022. [Online]. Available: https://ecommons.cornell.edu/handle/1813/41055
-[4]	T. Abate, “Inexpensive chip-size satellites orbit Earth,” Stanford News, Jun. 03, 2019. https://news.stanford.edu/2019/06/03/chip-size-satellites-orbit-earth/ (accessed Aug. 29, 2022).
-[6]	J. W. VanLandingham, “Exhibit Submission for ThumbSat Application,” 0250-EX-CN-2017, May 2017. Accessed: Nov. 17, 2022. [Online]. Available: https://fcc.report/ELS/ThumbSat-Inc/0250-EX-CN-2017/190160
-[7]	“Wafer Scale Spacecraft Flight 4-12-19.” https://www.deepspace.ucsb.edu/wafer-scale-spacecraft-flight-4-12-19 (accessed Nov. 30, 2022).
-[8]	A. Broeker, “Project Pinpoint: Pushing the Limits of Miniaturization,” Principium, no. 33, pp. 68--73, 2021.
-[9]	D. Nutt, “Monarch satellites open new frontier in crop monitoring,” Farm Progress, Nov. 14, 2019. https://www.farmprogress.com/technology/monarch-satellites-open-new-frontier-crop-monitoring (accessed Dec. 08, 2022).
-[10] https://ambasat.com/
+[1]	J. Tristancho, “Implementation of a femto-satellite and a mini-launcher,” Universitat Politecnica de Catalunya, 2010.  
+[2]	L. Yang, J. Guo, C. Fan, X. Song, S. Wu, and Y. Zhao, “The design and experiment of stardust femto-satellite,” Acta Astronaut., vol. 174, pp. 72–81, Sep. 2020, doi: 10.1016/j.actaastro.2020.04.034.  
+[3]	Z. Manchester, “Centimeter-Scale Spacecraft: Design, Fabrication, And Deployment,” 2015. Accessed: Feb. 18, 2022. [Online]. Available: https://ecommons.cornell.edu/handle/1813/41055  
+[4]	T. Abate, “Inexpensive chip-size satellites orbit Earth,” Stanford News, Jun. 03, 2019. https://news.stanford.edu/2019/06/03/chip-size-satellites-orbit-earth/ (accessed Aug. 29, 2022).  
+[5]	T. Brashears, “SpinorSat — A step along a 50 year journey to the stars,” Medium, Oct. 19, 2018. https://medium.com/@trbrashears_90628/spinorsat-a-step-along-a-50-year-journey-to-the-stars-23ee4effe6ab (accessed Feb. 18, 2022).  
+[6]	J. W. VanLandingham, “Exhibit Submission for ThumbSat Application,” 0250-EX-CN-2017, May 2017. Accessed: Nov. 17, 2022. [Online]. Available: https://fcc.report/ELS/ThumbSat-Inc/0250-EX-CN-2017/190160  
+[7]	“Wafer Scale Spacecraft Flight 4-12-19.” https://www.deepspace.ucsb.edu/wafer-scale-spacecraft-flight-4-12-19 (accessed Nov. 30, 2022).  
+[8]	A. Broeker, “Project Pinpoint: Pushing the Limits of Miniaturization,” Principium, no. 33, pp. 68--73, 2021.  
+[9]	D. Nutt, “Monarch satellites open new frontier in crop monitoring,” Farm Progress, Nov. 14, 2019. https://www.farmprogress.com/technology/monarch-satellites-open-new-frontier-crop-monitoring (accessed Dec. 08, 2022).  
+[10] https://ambasat.com/  
 [11] O. Borgue, K. Kanavouras, J. Laur, J. Thoemel, L. Rana, and A. Hein, “Developing a distributed and fractionated system of 10 grams satellites for planetary observation,” presented at the International Astronautical Congress 2022, IAF, Sep. 2022. Accessed: Jan. 06, 2023. [Online]. Available: https://orbilu.uni.lu/handle/10993/52674
