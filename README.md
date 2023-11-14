@@ -38,3 +38,7 @@ The criteria to include something in this list are:
 [9]	D. Nutt, “Monarch satellites open new frontier in crop monitoring,” Farm Progress, Nov. 14, 2019. https://www.farmprogress.com/technology/monarch-satellites-open-new-frontier-crop-monitoring (accessed Dec. 08, 2022).  
 [10] https://ambasat.com/  
 [11] O. Borgue, K. Kanavouras, J. Laur, J. Thoemel, L. Rana, and A. Hein, “Developing a distributed and fractionated system of 10 grams satellites for planetary observation,” presented at the International Astronautical Congress 2022, IAF, Sep. 2022. Accessed: Jan. 06, 2023. [Online]. Available: https://orbilu.uni.lu/handle/10993/52674
+
+## How to cite
+
+**Compendium of Pocket-Sized Space Objects**, Konstantinos Kanavouras, Citlali Bruce Rosete, Andreas M. Hein, 2023, URL: https://github.com/keras-team/keras-tuner
